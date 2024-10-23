@@ -1,0 +1,23 @@
+how to run steps
+
+open anaconda prompt from search
+
+type
+
+conda activate tf
+
+type 
+
+cd C:\Users\pujes\Desktop\my project\BreastCancer
+
+type
+
+python manage.py runserver
+
+http://127.0.0.1:8000/index.html
+
+copy this link in chorme website will open 
+
+admin
+admin
+done 
